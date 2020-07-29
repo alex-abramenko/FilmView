@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FilmView</string>
+    <string name="load">Фильмы загружаются, подождите…</string>
+    <string name="error">ERROR: Произошла ошибка при загрузке, проверьте подключение к интернету.</string>
+    <string name="films">Фильмы</string>
+    <string name="genres">Жанры</string>
+    <string name="year">Год: </string>
+    <string name="rating">Рейтинг: </string>
+</resources>
